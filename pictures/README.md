@@ -1,1 +1,2 @@
-# pictures
+#PICTURES.SH
+This is an old bash script I put together to resize / move / and add pictures to a database for my website. When it was first created, I barely had enough storage for the pictures I had, let alone with them at full size. It cut them down to 800x600, and created a 100x75 thumbnail. Initially I had to run this against every single folder I had individually, but I was able to add in parameters so it could work with a for loop. The flowerbox in the script itself is pretty well written. Check it out!
